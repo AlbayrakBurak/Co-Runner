@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">294262873116</string>
+  <string name="google_storage_bucket" translatable="false">corunner-66185.appspot.com</string>
+  <string name="project_id" translatable="false">corunner-66185</string>
+  <string name="google_api_key" translatable="false">AIzaSyALXvhEatEFvnPraLftsp5ALsgOuSg2UFw</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALXvhEatEFvnPraLftsp5ALsgOuSg2UFw</string>
+  <string name="google_app_id" translatable="false">1:294262873116:android:0111a16273cc5350c193d9</string>
+  <string name="default_web_client_id" translatable="false">294262873116-a97crm1danc9linfhftuulog208a19n8.apps.googleusercontent.com</string>
+</resources>
